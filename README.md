@@ -5,13 +5,13 @@ It is a console based application.
 Run TransportationApp/src/org/transport/main/app/TransportationApp.java and please follow the instructions.
 
 There are two types of users:
-Employees 
-General Citizens
+1.Employees 
+2.General Citizens
 
 General Citizens are divided into three categories:
-Student
-Senior Citizen 
-Regular
+1.Student
+2.Senior Citizen 
+3.Regular
 
 The price for tickets and discount factor for weekends, senior citizens and students
 can be changed easily by changing the values in the Constants file.
