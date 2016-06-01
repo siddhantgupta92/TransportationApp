@@ -2,8 +2,11 @@
 
 It is a console based application. 
 
-Run TransportationApp/src/org/transport/main/app/TransportationApp.java and please follow the instructions.
+Run TransportationApp/src/org/transport/main/app/TransportationApp.java and please follow the instructions in the application.
 
+Please Note: Mockito-all-1.9.5.jar would have to be downloaded as it will be needed for executing the tests.
+
+Other details:
 There are two types of users:
 1.Employees 
 2.General Citizens
