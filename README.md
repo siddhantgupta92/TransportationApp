@@ -1,6 +1,6 @@
 # TransportationApp
 
-It is a console based application. 
+Prototype for a transportation management app. It is a console based application. 
 
 Run TransportationApp/src/org/transport/main/app/TransportationApp.java and please follow the instructions in the application.
 
